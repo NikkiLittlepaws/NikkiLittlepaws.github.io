@@ -67,4 +67,7 @@
 - The OIC and or the Admiral reserves the right to at all times enforce or exempt the rules above in order to make the combat experience as fun and involving to all combatants as deemed necessary. Any issues with a decision made during the combat scenario can be brought to Exavier Lupindo **after** combat has concluded, and no more than 48 hours after the conclusion of the combat instance. The decision made by Exavier Lupindo will then be the final say in the matter and should not be pursued further.
 
 ### Changelog
+09/06/22: Repo change, rules addition, clarifications.
+- No raid interception / loitering
+- TP point mining clarified in The Battlefield.
 28/05/22: Added general respect line to Communications Courtesy. Added specification on height in Commmon COmbat Regulations.
