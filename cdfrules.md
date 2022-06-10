@@ -35,6 +35,7 @@
 - The spawn parcels are completely off limits. Attempted intentional blackscreening will be dealt with accordingly.
 - The attackers spawn sports a yellow zone and a red zone. The yellow zone is the deployment zone for vehicles and is considered generally safe. We will shoot into that zone in case you choose to have deployables there. The red zone is your spawn zone and you will not be under fire there unless you have been actively engaging from there.
 - The objectives in play function as points for teleportation to advance your foothold on the field. These will be turned on during combat, but it can be requested that these should not be used. Should you encounter an issue with the objectives, please notify Exavier Lupindo immediately with screenshots and a description of the issue.
+- This, by the intent of the objective system, also means that you should not, and are not allowed to, place persistent munitions in any capacity at the teleport points.
 
 ## 5: Deployables and mines
 - All deployables should have a proper LBA description and are limited to LBA Light / Slim. These should not be placed inside the spawnrooms.
