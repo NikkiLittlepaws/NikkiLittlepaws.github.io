@@ -69,7 +69,7 @@
 
 ##
 ### Changelog
-09/06/22: Repo change, rules addition, clarifications.
-- No raid interception / loitering
-- TP point mining clarified in The Battlefield.
-28/05/22: Added general respect line to Communications Courtesy. Added specification on height in Commmon COmbat Regulations.
+- 09/06/22: Repo change, rules addition, clarifications.
+ No raid interception / loitering.
+ TP point mining clarified in The Battlefield.
+- 29/05/22: Added general respect line to Communications Courtesy. Added specification on height in Commmon COmbat Regulations.
