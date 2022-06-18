@@ -47,7 +47,7 @@
 
 ## 6: Munitions
 - Maximum radius for explosives is 5 meters for infantry, 10 meters for vehicle main munitions. The cooldown timer is 5 seconds for infantry, 3 seconds for vehicles. All munitions should be raycasted and may NOT spall (Penetrate hard surfaces).
-- Maximum AT output of an infantryman should not exceed 75 (50?) and 100 for vehicles.
+- Maximum AT output of an infantryman should not exceed 35 for attached launchers, 50 for deployed launchers and 100 for vehicles. Reload time for attached and deployed launchers must be at least 5 seconds.
 - No invisible, phantom or seeking bullets. Semitransparent bullets are fine.
 - Do not use Agentlist guns, nor full auto raycast.
 - Flak / proximity detonated nonguided munitions may only be fired from a vehicle or armored emplacement, and is only allowed to be used against aircraft.
@@ -57,8 +57,8 @@
 ## 7: Vehicles and armor values
 - Personal transportation, IE bikes, may not exceed 25HP LBA-L/S
 - Cars / trucks may not exceed 75HP LBA-L/S
-- APCs / IFVs should not exceed 100HP LBA
-- Tanks should not exceed 300HP LBA
+- APCs / IFVs should not exceed 125HP LBA
+- Tanks should not exceed 400HP LBA
 - Fighters should not have HP at all
 - Gunships should not exceed 150HP LBA-L/S
 - Fleetship class may not exceed 400HP LBA
@@ -69,6 +69,7 @@
 
 ##
 ### Changelog
+- 18/06/22: Changed max HP value of tanks and IFV's, changed max AT values for infantry and stipulated reload times.
 - 09/06/22: Repo change, rules addition, clarifications.
  No raid interception / loitering.
  TP point mining clarified in The Battlefield.
