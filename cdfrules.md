@@ -1,4 +1,4 @@
-# CDF combat regulations draft, 28MAY22.
+# CDF combat regulations draft, 18JUN22.
 
 ## 1: The big ones
 - No griefing, doxing, stalking, harassing or otherwise negatively impact the group, individuals or simulator.
