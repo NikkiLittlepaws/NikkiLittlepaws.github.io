@@ -1,7 +1,9 @@
 # CDF combat regulations draft, 18JUN22.
+## The basics:
+Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitating these features**, if in doubt; ask, don't assume, and consider general sportmanship when fighting here. CDF has no interest in political engagements between other groups, parties or lonewolves, so please do not bring such to our place. This includes Blue on Blue (Attacking other attackers).
 
 ## 1: The big ones
-- No griefing, doxing, stalking, harassing or otherwise negatively impact the group, individuals or simulator.
+- No griefing, doxing, stalking, harassing or otherwise negatively impacting the group, individuals or simulator.
 - No hatespeech / slurs.
 - No copybotting or imitating equipment of the group nor its assets.
 - No entitlement or demands. You don’t own nor run this group or simulator.
@@ -69,6 +71,7 @@
 
 ##
 ### Changelog
+- 20/06/22: Added Basics at the top, corrected a typo under the Big Ones.
 - 18/06/22: Changed max HP value of tanks and IFV's, changed max AT values for infantry and stipulated reload times.
 - 09/06/22: Repo change, rules addition, clarifications.
  No raid interception / loitering.
