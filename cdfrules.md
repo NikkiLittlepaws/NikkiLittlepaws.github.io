@@ -50,6 +50,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 ## 6: Munitions
 - Maximum radius for explosives is 5 meters for infantry, 10 meters for vehicle main munitions. The cooldown timer is 5 seconds for infantry, 3 seconds for vehicles. All munitions should be raycasted and may NOT spall (Penetrate hard surfaces).
 - Maximum AT output of an infantryman should not exceed 35 for attached launchers, 50 for deployed launchers and 100 for vehicles. Reload time for attached and deployed launchers must be at least 5 seconds.
+- Beambased repair tools can be used if preapproved by the Admiralty.
 - No invisible, phantom or seeking bullets. Semitransparent bullets are fine.
 - Do not use Agentlist guns, nor full auto raycast.
 - Flak / proximity detonated nonguided munitions may only be fired from a vehicle or armored emplacement, and is only allowed to be used against aircraft.
@@ -71,7 +72,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 
 ##
 ### Changelog
-- 23/06/22: Added minimum and maximum velocity for fighters
+- 23/06/22: Added minimum and maximum velocity for fighters, added rule about beambased repairtools under Munitions.
 - 20/06/22: Added Basics at the top, corrected a typo under the Big Ones.
 - 18/06/22: Changed max HP value of tanks and IFV's, changed max AT values for infantry and stipulated reload times.
 - 09/06/22: Repo change, rules addition, clarifications.
