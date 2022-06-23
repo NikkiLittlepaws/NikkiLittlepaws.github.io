@@ -1,4 +1,4 @@
-# CDF combat regulations draft, 20JUN22.
+# CDF combat regulations draft, 23JUN22.
 ## The basics:
 Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitating these features**, if in doubt; ask, don't assume, and consider general sportmanship when fighting here. CDF has no interest in political engagements between other groups, parties or lonewolves, so please do not bring such to our place. This includes Blue on Blue (Attacking other attackers).
 
@@ -61,7 +61,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - Cars / trucks may not exceed 75HP LBA-L/S
 - APCs / IFVs should not exceed 125HP LBA
 - Tanks should not exceed 400HP LBA
-- Fighters should not have HP at all
+- Fighters should not have HP at all - Minimum velocity: 50, maximum velocity: 125 - May **not** act as a UFO
 - Gunships should not exceed 150HP LBA-L/S
 - Fleetship class may not exceed 400HP LBA
 
@@ -71,6 +71,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 
 ##
 ### Changelog
+- 23/06/22: Added minimum and maximum velocity for fighters
 - 20/06/22: Added Basics at the top, corrected a typo under the Big Ones.
 - 18/06/22: Changed max HP value of tanks and IFV's, changed max AT values for infantry and stipulated reload times.
 - 09/06/22: Repo change, rules addition, clarifications.
