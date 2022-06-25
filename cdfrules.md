@@ -1,4 +1,4 @@
-# CDF combat regulations draft, 23JUN22.
+# CDF combat regulations draft, 25JUN22.
 ## The basics:
 Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitating these features**, if in doubt; ask, don't assume, and consider general sportmanship when fighting here. CDF has no interest in political engagements between other groups, parties or lonewolves, so please do not bring such to our place. This includes Blue on Blue (Attacking other attackers).
 
