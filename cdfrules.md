@@ -1,3 +1,5 @@
+![CDF log](https://user-images.githubusercontent.com/81685693/175794254-183db228-385c-4fd4-a2fb-544b41a015c3.png)
+
 # CDF combat regulations draft, 25JUN22.
 ## The basics:
 Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitating these features**, if in doubt; ask, don't assume, and consider general sportmanship when fighting here. CDF has no interest in political engagements between other groups, parties or lonewolves, so please do not bring such to our place. This includes Blue on Blue (Attacking other attackers).
@@ -73,7 +75,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 
 ##
 ### Changelog
-- 25/06/22: Changed wording of CDF rules enforcementn authority, added Visitor stipulationns under Communications Courtesy, updated The Battlefield to be up to date with existing representation, added allowance for beam repairtools under Munitions
+- 25/06/22: Changed wording of CDF rules enforcementn authority, added Visitor stipulationns under Communications Courtesy, updated The Battlefield to be up to date with existing representation, added allowance for beam repairtools under Munitions. Added logo to the top.
 - 23/06/22: Added minimum and maximum velocity for fighters, added rule about beambased repairtools under Munitions.
 - 20/06/22: Added Basics at the top, corrected a typo under the Big Ones.
 - 18/06/22: Changed max HP value of tanks and IFV's, changed max AT values for infantry and stipulated reload times.
