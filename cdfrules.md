@@ -1,6 +1,6 @@
 ![CDF log](https://user-images.githubusercontent.com/81685693/175794254-183db228-385c-4fd4-a2fb-544b41a015c3.png)
 
-# CDF combat regulations draft, 25JUN22.
+# CDF combat regulations draft, 27JUN22.
 ## The basics:
 Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitating these features**, if in doubt; ask, don't assume, and consider general sportmanship when fighting here. CDF has no interest in political engagements between other groups, parties or lonewolves, so please do not bring such to our place. This includes Blue on Blue (Attacking other attackers).
 
@@ -9,6 +9,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - No hatespeech / slurs.
 - No copybotting or imitating equipment of the group nor its assets.
 - No entitlement or demands. You don’t own nor run this group or simulator.
+- Soup.
 
 ## 2: Common combat regulations
 - First and foremost, if we deem something to be detrimental to the flow of combat, we reserve the right to deny it for the duration of combat, or potentially longer.
@@ -61,8 +62,8 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - Munitions should not be loud/obnoxious of nature. If in doubt, contact Exavier Lupindo to get a verdict.
 
 ## 7: Vehicles and armor values
-- Personal transportation, IE bikes, may not exceed 25HP LBA-L/S
-- Cars / trucks may not exceed 75HP LBA-L/S
+- Personal transportation, IE bikes, may not exceed 25HP LBA-L/S; must remain persistent if disembarked from, may not be grouplocked, and must be limited to driver and one passenger max
+- Cars / trucks may not exceed 75HP LBA-L/S; must remain persistent if disembarked from and may not be grouplocked.
 - APCs / IFVs should not exceed 125HP LBA
 - Tanks should not exceed 400HP LBA
 - Fighters should not have HP at all - Minimum velocity: 50, maximum velocity: 125 - May **not** act as a UFO
@@ -75,6 +76,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 
 ##
 ### Changelog
+- 27/06/22: Added stipulation about personal transports and cars/trucks under Vehicles and Armor Values.
 - 25/06/22: Changed wording of CDF rules enforcementn authority, added Visitor stipulationns under Communications Courtesy, updated The Battlefield to be up to date with existing representation, added allowance for beam repairtools under Munitions. Added logo to the top.
 - 23/06/22: Added minimum and maximum velocity for fighters, added rule about beambased repairtools under Munitions.
 - 20/06/22: Added Basics at the top, corrected a typo under the Big Ones.
