@@ -41,7 +41,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - The spawn parcels are completely off limits. Attempted intentional blackscreening will be dealt with accordingly.
 - The attackers spawn is the house sporting the spawn parcel and roof, along with the repair pad shed. That area should not be engaged by any defending forces, provided attackers do not attack from there. The orange zone, for the attackers portion of the battlefield, is the immediate area around the spawn, leaning slightly up the mountain. The defenders spawn is the tower in the North Western corner of the simulator cluster. The orange zone is the immediate area and buildings surrounding the tower.. 
 - Engagement from the rear lines of the two spawn simulators should be reserved for artillery and snipers, and these may be retaliated upon. Do not make it a point to engage targets without having been aggressed on prior, and do not camp them after retaliating (Retaliation protocol).
-- The main battlefield is the two center sims, and the respective portions of Eosphoros and Rauros. Rauros likewise sports an extensive tunnel system and waterway entrance for tactical entry. There is not a dedicated objective system in place, as the spirit of this map layout and simulator setup is a play on the Battlefield Series' Free For All skirmishes without the spawn mechanics.
+- The main battlefield is the two center sims, and the respective potions of Eosphoros and Rauros. Rauros likewise sports an extensive tunnel system and waterway entrance for tactical entry. There is not a dedicated objective system in place, as the spirit of this map layout and simulator setup is a play on the Battlefield Series' Free For All skirmishes without the spawn mechanics.
 
 ## 5: Deployables and mines
 - All infantry deployables should have a proper LBA description and are limited to LBA Light / Slim. These should not be placed inside the spawnrooms.
@@ -52,7 +52,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - Interceptors should have no more than 10 charges with at least a 10 second recharge time when depleted, and may not have more than 25HP LBA-Light or Slim.
 
 ## 6: Munitions
-- Maximum lethal radius for explosives is 5 meters for infantry, 10 meters for vehicle main munitions, and up to 20 for static artillery batteries; with an additional wound radius up to twice the given lethal. The minimum cooldown timer is 5 seconds for infantry, 3 seconds for vehicles, and 10 seconds for artillery. All explosive munitions must be raycasted and may NOT spall (Penetrate hard surfaces); exceptions to this can be made at the discretion of the defense O.I.C.
+- Maximum lethal radius for explosives is 5 meters for infantry, 10 meters for vehicle main munitions, and up to 20 for artillery batteries; with an additional wound radius up to twice the given lethal. The minimum cooldown timer is 5 seconds for infantry, 3 seconds for vehicles, and 10 seconds for artillery. All explosive munitions must be raycasted and may NOT spall (Penetrate hard surfaces); exceptions to this can be made at the discretion of the defense O.I.C.
 - Maximum AT output of an infantryman should not exceed 35 for attached launchers, 50 for deployed launchers and 100 for vehicles. Reload time for attached and deployed launchers or placed explosives must be at least 5 seconds.
 - Beambased repair tools may be used provided the beam is 100% visible, has damage falloff within a reasonable range and the damage portion is not group discriminatory. Suggested maximum effect range is 50 meters and up to 200m for wound with a significant logarithmic falloff for damage.
 - No invisible, phantom or seeking bullets. Semitransparent bullets are fine.
@@ -77,13 +77,14 @@ Any transport vehicles that are intended to be fully disembarked must be persist
 
 ##
 ### Changelog
-- 06/07/22: Added policy regarding politics to The Basics, added jetpacks specifically next to movement enhancers, elaborated on violator punishments under communications courtesy, changed stipulations for deployables under Deployables, added a random typo, upddated Munitions to specify lethal radius, circumstances for artillery fire and specified placed explosives reload timer, clarified vehicle states under Vehicles and Armor values.
+- 21/08/22: Removed stipulation about artillery having to be static, moved the random typo.
+- 06/07/22: Added policy regarding politics to The Basics, added jetpacks specifically next to movement enhancers, elaborated on violator punishments under communications courtesy, changed stipulations for deployables under Deployables, added a random typo, updated Munitions to specify lethal radius, circumstances for artillery fire and specified placed explosives reload timer, clarified vehicle states under Vehicles and Armor values.
 - 27/06/22: Added stipulation about personal transports and cars/trucks under Vehicles and Armor Values.
-- 25/06/22: Changed wording of CDF rules enforcementn authority, added Visitor stipulationns under Communications Courtesy, updated The Battlefield to be up to date with existing representation, added allowance for beam repairtools under Munitions. Added logo to the top.
+- 25/06/22: Changed wording of CDF rules enforcement authority, added Visitor stipulations under Communications Courtesy, updated The Battlefield to be up to date with existing representation, added allowance for beam repairtools under Munitions. Added logo to the top.
 - 23/06/22: Added minimum and maximum velocity for fighters, added rule about beambased repairtools under Munitions.
 - 20/06/22: Added Basics at the top, corrected a typo under the Big Ones.
 - 18/06/22: Changed max HP value of tanks and IFV's, changed max AT values for infantry and stipulated reload times.
 - 09/06/22: Repo change, rules addition, clarifications.
  No raid interception / loitering.
  TP point mining clarified in The Battlefield.
-- 29/05/22: Added general respect line to Communications Courtesy. Added specification on height in Commmon COmbat Regulations.
+- 29/05/22: Added general respect line to Communications Courtesy. Added specification on height in Commmon Combat Regulations.
