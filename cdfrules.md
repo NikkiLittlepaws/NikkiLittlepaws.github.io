@@ -8,8 +8,8 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - No griefing, doxing, stalking, harassing or otherwise negatively impacting the group, individuals or simulator.
 - No hatespeech / slurs.
 - No copybotting or imitating equipment of the group nor its assets.
-- No entitlement or demands. You don’t own nor run this group or simulator.
 - Soup.
+- No entitlement or demands. You don’t own nor run this group or simulator.
 
 ## 2: Common combat regulations
 - First and foremost, if we deem something to be detrimental to the flow of combat, we reserve the right to deny it for the duration of combat, or potentially longer.
@@ -26,7 +26,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 ## 3: Communications courtesy
 - Visitors should contact a CDF member (Associate and above) when approaching Rauros. Failing that, defenders may engage as needed. Visitors should likewise remain unarmed whilst present.
 - This sim and group houses members from other militaries and unaffiliated groups and communities. Please treat others with respect and keep the out-of-combat axe grinding for elsewhere, be it on voice, inworld voice, chat or IMs.
-- The OIC (Officer in Command) is responsible for the forces attacking / defending, be they members of the group, militia or lonewolves fighting alongside attackers or defenders.
+- The OIC (Officer in Cummand) is responsible for the forces attacking / defending, be they members of the group, militia or lonewolves fighting alongside attackers or defenders.
 - When entering with intent to raid, declare an O.I.C. and await response. This can be done to one of the members active on base.
 - During combat, please act professional. If you act as if you believe you have the power to dictate what we should do, you will be asked to stop or find someone else to take over. Same goes for acting like a manchild.
 - Violations will be noted and approached in the following order depending on continuation and/or severity. Individuals and/or objects found to threaten simulator stability or the well-being of our members risk being removed without warning:
@@ -39,13 +39,13 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 
 ## 4: The battlefield
 - The spawn parcels are completely off limits. Attempted intentional blackscreening will be dealt with accordingly.
-- The attackers spawn is the house sporting the spawn parcel and roof, along with the repair pad shed. That area should not be engaged by any defending forces, provided attackers do not attack from there. The orange zone, for the attackers portion of the battlefield, is the immediate area around the spawn, leaning slightly up the mountain. The defenders spawn is the tower in the North Western corner of the simulator cluster. The orange zone is the immediate area and buildings surrounding the tower.. 
-- Engagement from the rear lines of the two spawn simulators should be reserved for artillery and snipers, and these may be retaliated upon. Do not make it a point to engage targets without having been aggressed on prior, and do not camp them after retaliating (Retaliation protocol).
-- The main battlefield is the two center sims, and the respective potions of Eosphoros and Rauros. Rauros likewise sports an extensive tunnel system and waterway entrance for tactical entry. There is not a dedicated objective system in place, as the spirit of this map layout and simulator setup is a play on the Battlefield Series' Free For All skirmishes without the spawn mechanics.
+- The attackers spawn and adjacent helipad/runway has been marked up and should not be used to engage from as return-fire will happen. 
+- Deployment of artillery and similar indirect fire munitions gear can be done outside the allotted orange zone, however such is fully open to be aggressed on without reprisal (Retaliation protocol).
+- The main battlefield is the environs not noted as being spawns. This means the spawn tunnel and runway/helipad for attackers, and the locked off section of the CDF fort for the defenders. As CDF is mindful regarding the attackers spawn, we expect attackers to show the same courtesy. Likewise, any point out in the field can be taken and fortified and tactical thinking is encouraged. It is a jungle setting. Water has alligators and the occasional murray eel of the man-eating variety and bridges are targetrich environments.
 
 ## 5: Deployables and mines
 - All infantry deployables should have a proper LBA description and are limited to LBA Light / Slim. These should not be placed inside the spawnrooms.
-- Barricades of standard size should not exceed 200HP, sit barrades at 100HP, heavy barricades / walls at 550HP as maximum.
+- Barricades of standard size should not exceed 200HP, sit barricades at 100HP, heavy barricades / walls at 550HP as maximum.
 - Barricades and walls may NOT be placed inside buildings, tunnels or objective points with intent of obstructing access. 
 - Mines must have a LBA-Light /Slim description, maximum 1HP and should be disabled / detonated with normal collisions as well. Planted C4 charges may have 5HP but should be able to be disarmed without obstruction by click-hold.
 - No automated turrets, drones or NPCs in any capacity. Remotecontrolled drones can be used (One per combatant).
@@ -71,12 +71,13 @@ Any transport vehicles that are intended to be fully disembarked must be persist
 - Gunships should not exceed 150HP LBA-L/S
 - Fleetship class vehicles are at Defense O.I.C.'s discretion.
 
-##
+
 ### Final statement:
 - The O.I.C. and or the Admiral reserves the right to at all times enforce or exempt the rules above in order to make the combat experience as fun and involving to all combatants as deemed necessary. Any issues with a decision made during the combat scenario can be brought to Exavier Lupindo **after** combat has concluded, and no more than 48 hours after the conclusion of the combat instance. The decision made by Exavier Lupindo will then be the final say in the matter and should not be pursued further.
 
-##
+
 ### Changelog
+- 23/01/23: Updated battlefield and spawn descriptions, changed up data listing spawns and indirect munitions deployment, moved the typo, added a furred eel somewhere so don't swim in the water, removed Grand Federation Listening Post from Charlie four, redeployed Grand Federation Listening Post at Echo two, added additional equipment to CDF.
 - 21/08/22: Removed stipulation about artillery having to be static, moved the random typo.
 - 06/07/22: Added policy regarding politics to The Basics, added jetpacks specifically next to movement enhancers, elaborated on violator punishments under communications courtesy, changed stipulations for deployables under Deployables, added a random typo, updated Munitions to specify lethal radius, circumstances for artillery fire and specified placed explosives reload timer, clarified vehicle states under Vehicles and Armor values.
 - 27/06/22: Added stipulation about personal transports and cars/trucks under Vehicles and Armor Values.
