@@ -7,8 +7,8 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 ## 1: The big ones
 - No griefing, doxing, stalking, harassing or otherwise negatively impacting the group, individuals or simulator.
 - No hatespeech / slurs.
-- No copybotting or imitating equipment of the group nor its assets.
 - Soup.
+- No copybotting or imitating equipment of the group nor its assets.
 - No entitlement or demands. You don’t own nor run this group or simulator.
 
 ## 2: Common combat regulations
@@ -17,8 +17,8 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - Do not wireframe, use ARC/ARW, Collision skeletons, hitboxes or other irregular viewer features to try and gain an unfair advantage. Firestorm’s combat feature is acceptable.
 - There is no definitive height restriction, provided such **isn't abused.** It will be judged on case-by-case basis.
 - Dodgerolls should take you no further than 10 meters and may not function in midair.
-- Do not use grapplehooks, breachcharges or any other movement enhancers/jetpacks, teleporters or medic-TPs.
-- No obnoxious sound or light spam.
+- Do not use sprint style movement enhancers/jetpacks, teleporters or medic-TPs.
+-No obnoxious sound, light or gesture spam.
 - Do not loiter during or after combat without the Defense O.I.C.'s permission.
 - Do not do raid interception on other militaries.
 - We reserve the right to fully enforce as well as make exemptions to the regulations listed in this document.
@@ -26,7 +26,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 ## 3: Communications courtesy
 - Visitors should contact a CDF member (Associate and above) when approaching Rauros. Failing that, defenders may engage as needed. Visitors should likewise remain unarmed whilst present.
 - This sim and group houses members from other militaries and unaffiliated groups and communities. Please treat others with respect and keep the out-of-combat axe grinding for elsewhere, be it on voice, inworld voice, chat or IMs.
-- The OIC (Officer in Cummand) is responsible for the forces attacking / defending, be they members of the group, militia or lonewolves fighting alongside attackers or defenders.
+- The OIC (Officer in Command) is responsible for the forces attacking / defending, be they members of the group, militia or lonewolves fighting alongside attackers or defenders.
 - When entering with intent to raid, declare an O.I.C. and await response. This can be done to one of the members active on base.
 - During combat, please act professional. If you act as if you believe you have the power to dictate what we should do, you will be asked to stop or find someone else to take over. Same goes for acting like a manchild.
 - Violations will be noted and approached in the following order depending on continuation and/or severity. Individuals and/or objects found to threaten simulator stability or the well-being of our members risk being removed without warning:
@@ -62,7 +62,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - Munitions should not be loud/obnoxious of nature. If in doubt, contact Exavier Lupindo to get a verdict.
 
 ## 7: Vehicles and armor values
-Any transport vehicles that are intended to be fully disembarked must be persistent and may not despawn if the driver/pilot exits, continue to take damage whilst unoccupied, and preferably not group-locked.
+Any transport vehicles that are intended to be fully disembarked must be persistent and may nut despawn if the driver/pilot exits, continue to take damage whilst unoccupied, and preferably not group-locked.
 - Small personal transports such as bikes, may not exceed 25HP LBA-L/S and should only carry one passenger if any
 - Cars / trucks may not exceed 75HP LBA-L/S or 25 LBA
 - APCs / IFVs should not exceed 250 HP LBA-L/S or 150HP LBA
@@ -77,6 +77,7 @@ Any transport vehicles that are intended to be fully disembarked must be persist
 
 
 ### Changelog
+- 27/01/23: Updated rules to allow grapples, corrected an elusive typo, updated rule about light and sound spm to include obnoxious gestures.
 - 23/01/23: Updated battlefield and spawn descriptions, changed up data listing spawns and indirect munitions deployment, moved the typo, added a furred eel somewhere so don't swim in the water, removed Grand Federation Listening Post from Charlie four, redeployed Grand Federation Listening Post at Echo two, added additional equipment to CDF.
 - 21/08/22: Removed stipulation about artillery having to be static, moved the random typo.
 - 06/07/22: Added policy regarding politics to The Basics, added jetpacks specifically next to movement enhancers, elaborated on violator punishments under communications courtesy, changed stipulations for deployables under Deployables, added a random typo, updated Munitions to specify lethal radius, circumstances for artillery fire and specified placed explosives reload timer, clarified vehicle states under Vehicles and Armor values.
