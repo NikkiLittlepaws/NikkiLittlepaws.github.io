@@ -17,16 +17,16 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - Do not wireframe, use ARC/ARW, Collision skeletons, hitboxes or other irregular viewer features to try and gain an unfair advantage. Firestorm’s combat feature is acceptable.
 - There is no definitive height restriction, provided such **isn't abused.** It will be judged on case-by-case basis.
 - Dodgerolls should take you no further than 10 meters and may not function in midair.
-- Do not use sprint style movement enhancers/jetpacks, teleporters or medic-TPs.
+- Do not use sprint style movement enhancers/jetpacks, grapplehooks, teleporters or medic-TPs. We are providing an Experiencebased medic system for this purpose
 -No obnoxious sound, light or gesture spam.
 - Do not loiter during or after combat without the Defense O.I.C.'s permission.
 - Do not do raid interception on other militaries.
 - We reserve the right to fully enforce as well as make exemptions to the regulations listed in this document.
 
 ## 3: Communications courtesy
-- Visitors should contact a CDF member (Associate and above) when approaching Rauros. Failing that, defenders may engage as needed. Visitors should likewise remain unarmed whilst present.
+- Visitors should contact a CDF member (Associate and above) when approaching Port Babel. Failing that, defenders may engage as needed. Visitors should likewise remain unarmed whilst present.
 - This sim and group houses members from other militaries and unaffiliated groups and communities. Please treat others with respect and keep the out-of-combat axe grinding for elsewhere, be it on voice, inworld voice, chat or IMs.
-- The OIC (Officer in Command) is responsible for the forces attacking / defending, be they members of the group, militia or lonewolves fighting alongside attackers or defenders.
+- The OIC (Occifer in Command) is responsible for the forces attacking / defending, be they members of the group, militia or lonewolves fighting alongside attackers or defenders.
 - When entering with intent to raid, declare an O.I.C. and await response. This can be done to one of the members active on base.
 - During combat, please act professional. If you act as if you believe you have the power to dictate what we should do, you will be asked to stop or find someone else to take over. Same goes for acting like a manchild.
 - Violations will be noted and approached in the following order depending on continuation and/or severity. Individuals and/or objects found to threaten simulator stability or the well-being of our members risk being removed without warning:
@@ -41,7 +41,7 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
 - The spawn parcels are completely off limits. Attempted intentional blackscreening will be dealt with accordingly.
 - The attackers spawn and adjacent helipad/runway has been marked up and should not be used to engage from as return-fire will happen. 
 - Deployment of artillery and similar indirect fire munitions gear can be done outside the allotted orange zone, however such is fully open to be aggressed on without reprisal (Retaliation protocol).
-- The main battlefield is the environs not noted as being spawns. This means the spawn tunnel and runway/helipad for attackers, and the locked off section of the CDF fort for the defenders. As CDF is mindful regarding the attackers spawn, we expect attackers to show the same courtesy. Likewise, any point out in the field can be taken and fortified and tactical thinking is encouraged. It is a jungle setting. Water has alligators and the occasional murray eel of the man-eating variety and bridges are targetrich environments.
+- The main battlefield is the environs not noted as being spawns. This means the spawn tunnel and runway/helipad for attackers, and the locked off section of the CDF fort for the defenders. As CDF is mindful regarding the attackers spawn, we expect attackers to show the same courtesy. Likewise, any point out in the field can be taken and fortified and tactical thinking is encouraged. It is a mesa setting, but we're high up in the air. Thin air -will- kill you. Stay away from the tops of the mesas. Also, there is a gay armadillo rolling around somewhere. If found, please report to the nearest CDF officer.
 
 ## 5: Deployables and mines
 - All infantry deployables should have a proper LBA description and are limited to LBA Light / Slim. These should not be placed inside the spawnrooms.
@@ -77,6 +77,7 @@ Any transport vehicles that are intended to be fully disembarked must be persist
 
 
 ### Changelog
+- 12/08/23: Updated simnames, disallowed grapplehooks, added Medic system addition, corrected yet another typo.
 - 27/01/23: Updated rules to allow grapples, corrected an elusive typo, updated rule about light and sound spm to include obnoxious gestures.
 - 23/01/23: Updated battlefield and spawn descriptions, changed up data listing spawns and indirect munitions deployment, moved the typo, added a furred eel somewhere so don't swim in the water, removed Grand Federation Listening Post from Charlie four, redeployed Grand Federation Listening Post at Echo two, added additional equipment to CDF.
 - 21/08/22: Removed stipulation about artillery having to be static, moved the random typo.
