@@ -84,14 +84,14 @@ Fundamentals for combat at CDF: **Turn off quickjump/nimble/accessories imitatin
  - APCs / IFVs should not exceed 250 HP LBA Light / Slim or 150HP LBA.
  - Tanks should not exceed 500HP LBA.
  - All Vehicles should move relative to their physical size and HP.
-  - Avatar Sized Vehicles (sub 3 meters tall, referred to ASV’s for short (think Power armor) ) should move comparable to an avatar in movement speed and jump height, and have no more than 50 LBA Light / Slim.
-  - Heavy Land Vehicles (i.e. 350HP or higher) are restricted to at maximum Avatar running speed 6.5m/s.
-  - A small but nimble vehicle should have low HP, where as a Large Heavy MBT style vehicles should not move like a “Cracked out Squirrel”.
-  - Maximum hover height for a “hover tank” at idle should be approximately 5 Meters
+   - Avatar Sized Vehicles (sub 3 meters tall, referred to ASV’s for short (think Power armor) ) should move comparable to an avatar in movement speed and jump height, and have no more than 50 LBA Light / Slim.
+    - Heavy Land Vehicles (i.e. 350HP or higher) are restricted to at maximum Avatar running speed 6.5m/s.
+    - A small but nimble vehicle should have low HP, where as a Large Heavy MBT style vehicles should not move like a “Cracked out Squirrel”.
+    - Maximum hover height for a “hover tank” at idle should be approximately 5 Meters
  - Vehicle Weapons Must have reasonable gun elevation / depression represented by the barrel (i.e. not visually clipping the gun through its body and shooting downward below its hull.)
  - Fighters should not have HP at all - Maximum standard velocity is 125, with reasonable afterburners that do not break interpolation - May not act as a UFO. If your craft can reverse or perform maneuvers similar to a gunship at full flight speed, refrain from using such features(or such vehicles).
-  - Slower moving Attack Craft are permitted to be armored up to 100 LBA Light / Slim
-   - They Must be locked in forward flight.and must not exceed 70m/s in level Flight.
+    - Slower moving Attack Craft are permitted to be armored up to 100 LBA Light / Slim
+     - They Must be locked in forward flight.and must not exceed 70m/s in level Flight.
  - Gunships should not exceed 150HP LBA Light / Slim or exceed 60m/s
  - Approval of “Fleetship” type vehicles are at the CDF O.I.C.’s discretion.
 
