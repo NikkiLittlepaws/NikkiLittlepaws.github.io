@@ -1,4 +1,5 @@
-![CDF log](https://user-images.githubusercontent.com/81685693/175794254-183db228-385c-4fd4-a2fb-544b41a015c3.png)
+![CDF log](https://github.com/user-attachments/assets/e5b49432-fd0e-489f-9c19-106589597a0c)
+
 
 # CDF combat regulations draft, 17APR25.
 ## The basics:
